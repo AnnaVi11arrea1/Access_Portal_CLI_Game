@@ -1,0 +1,41 @@
+To enter program you must decrypt special message
+
+To encrypt: "The answer lies in the question"
+- we will first reverse it
+- then we will replace letters with symbols
+
+
+
+- Encrypted:
+
+~ = a               
+  _ = b
+  ? = c
+  : = d
+  ! = e
+  | = f
+  . = g
+  & = h
+  @ = i
+  ; = k
+  < = l
+  = = m
+  * = n
+  # = o
+  / = q
+  + = r
+  ^ = s
+  % = t
+  $ = u
+  - = w
+  " " = >"
+  
+
+  # if encrypt21 ==  "&%$+% !&% *@ ^!@< +!-^*~ !&%" and submission == "The answer lies in the truth"
+
+
+
+# elsif encrypt21 == "!!+| $#y %!^ <<@- &%$+% !&%" and submission == "The truth will set you free"
+
+
+# elsif encrypt21 == "<<@- :*~ !.:!<-#*; .*@?*~<~b ^@ =#:!!+|" and submission == "Freedom is balancing knowledge and will"
